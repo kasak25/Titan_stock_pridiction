@@ -373,7 +373,7 @@ if page == "🏠 Dashboard":
     # HEADER
     # --------------------------------------------------------
 
-    st.title("📈 Stock Market Prediction")
+    st.title("📈Titan Stock Prediction")
 
     st.write(
         "Analyze historical stock market data, "
